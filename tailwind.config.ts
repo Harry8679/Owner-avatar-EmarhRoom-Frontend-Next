@@ -30,11 +30,14 @@ module.exports = {
           "2xl": "13rem",
         },
       },
-  
       fontFamily: {
-        heading: ['Poppins', 'sans-serif'],
-        body: ['Inter', 'sans-serif'], // ✅ Bien défini
+        body: ['Inter', 'sans-serif'],
       },
+  
+    //   fontFamily: {
+    //     heading: ['Poppins', 'sans-serif'],
+    //     body: ['Inter', 'sans-serif'], // ✅ Bien défini
+    //   },
   
       extend: {
         colors: {
