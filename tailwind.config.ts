@@ -6,6 +6,7 @@ module.exports = {
       "./components/**/*.{js,ts,jsx,tsx,mdx}",
       "./src/**/*.{js,ts,jsx,tsx,mdx}", // ✅ si tu utilises src
       "./src/**/*.{js,ts,jsx,tsx,mdx}",
+      "./src/app/assets/scss/**/*.{scss,css}",
     ],
     darkMode: 'class',
     important: true,
